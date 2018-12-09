@@ -27,6 +27,15 @@
     text-align: center;
     width:100%;
 }
+.ranking-percent{
+    position:absolute;
+    width:100%;
+    text-align:center;
+    top:12px;
+    color:#9538BD;
+    font-size: 32pt;
+    font-family: 'Jua', sans-serif;
+}
 .container{
     text-align:center;
     width:100%;
