@@ -18,6 +18,14 @@
     padding:8px;
     height:20px;
 }
+#logo{
+    position: fixed;
+    left:8;
+    top:8;
+    font-family: 'Jua', sans-serif;
+    color:#9538BD;
+    font-size: 16pt
+}
 .ranking-list-number{
     position: absolute;
     color:#9538BD;
